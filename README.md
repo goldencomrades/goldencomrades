@@ -9,5 +9,8 @@ https://www.youtube.com/channel/UC0nuidGQ3IG1JloW4_fC3Kg
 ## Google group
 https://groups.google.com/forum/#!forum/goldencomrades
 
-## Tech Talk
+## Google calendar
 https://calendar.google.com/calendar?cid=Z29sZGVuY29tcmFkZXNAZ21haWwuY29t
+
+## TechTalk
+
