@@ -10,4 +10,4 @@ https://www.youtube.com/channel/UC0nuidGQ3IG1JloW4_fC3Kg
 https://groups.google.com/forum/#!forum/goldencomrades
 
 ## Tech Talk
-https://calendar.google.com/event?tmeid=M2NxbW04cDU4MHQ1MXEzc292NHJxYmZyZ28gZ29sZGVuY29tcmFkZXNAbQ
+https://calendar.google.com/event?action=TEMPLATE&tmeid=M2NxbW04cDU4MHQ1MXEzc292NHJxYmZyZ28gZ29sZGVuY29tcmFkZXNAbQ&tmsrc=goldencomrades%40gmail.com
