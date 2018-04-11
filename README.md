@@ -13,4 +13,4 @@ https://groups.google.com/forum/#!forum/goldencomrades
 https://calendar.google.com/calendar?cid=Z29sZGVuY29tcmFkZXNAZ21haWwuY29t
 
 ## TechTalk
-
+https://zoom.us/j/585424106
